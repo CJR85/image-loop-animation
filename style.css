@@ -34,3 +34,11 @@ section h2 {
   overflow: hidden;
   display: flex;
 }
+
+.blocks {
+  position: relative;
+  display: block;
+  width: 5vw;
+  height: 5vw;
+  background: #fff;
+}
