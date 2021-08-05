@@ -33,6 +33,7 @@ section h2 {
   height: 100%;
   overflow: hidden;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .blocks {
